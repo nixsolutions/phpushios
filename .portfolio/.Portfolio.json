@@ -1,9 +1,0 @@
-{
-  "name": "Phpusios - php library for iOS push notifications",
-  "repository": "https://github.com/nixsolutions/shelving",
-  "demo": "",
-  "logo_background": "bg5",
-  "description": "Simple php library for iOS push notifications with token based authentication and HTTP/2",
-  "language": "php",
-  "technology": ["php", "ios", "mobile"]
-}
